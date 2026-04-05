@@ -10,6 +10,11 @@ A C# desktop application to encrypt, decrypt, compress, and decompress images �
 - **Decompression** — restores compressed images by reversing the Huffman encoding
 - **Benchmarking** — evaluates and reports the compression ratio
 
+## Sample — Encryption
+
+| Input | Encrypted Output |
+|-------|-----------------|
+| ![Input](https://raw.githubusercontent.com/abdelrahman-omran/ImageManipulator/refs/heads/master/SampleCases_Encryption/INPUT/Sample2.bmp) | ![Encrypted](https://raw.githubusercontent.com/abdelrahman-omran/ImageManipulator/refs/heads/master/SampleCases_Encryption/OUTPUT/Sample2Output.bmp) |
 ## How It Works
 
 The app exposes three main classes:
